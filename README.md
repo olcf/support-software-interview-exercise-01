@@ -3,7 +3,7 @@
 
 ### Overview
 
-The simplified exercise below is representative of the kind applications we build within the OLCF/NCCS Support Software Team. When you are finished with the coding exercise, please send your submission directly to us via email as a `.tar.gz` or `.zip` file. The exercise should take approximately (2) hours to complete.
+The simplified exercise below is representative of the kind applications we build within the OLCF Support Software Team. When you are finished with the coding exercise, please send your submission directly to us via email as a `.tar.gz` or `.zip` file. For programmers experienced in web application design, the exercise should take approximately (2) hours to complete. For programmers with no recent experience with web application design, the exercise could take approximately (10) hours, if you account for time spent "getting up to speed".
 
 ### Deliverable
 
@@ -12,7 +12,7 @@ Using a Ruby or Python based web application framework (e.g. Rails, Sinatra, Dja
 Your deliverable, at minimum:
 
 - Should provide an informative `README.md` (i.e., run/installation instructions, what could be improved, etc.)
-- Should ETL the provided CSV into a datastore of your choosing
+- Should ETL the provided CSV into a database of your choosing
 - Should gracefully handle omissions within the example dataset
 - Should provide a functional API endpoint at `/batch_jobs`
 - Your API endpoint should respond with a [JSON-API](http://jsonapi.org/format/#fetching-resources) document (string)
