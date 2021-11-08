@@ -1,9 +1,9 @@
 
-## OLCF Support Software Team - Coding Exercise 01
+## OLCF Software Services Development Team - Coding Exercise 01
 
 ### Overview
 
-The simplified exercise below is representative of the kind applications we build within the OLCF Support Software Team. When you are finished with the coding exercise, please send your submission directly to us via email as a `.tar.gz` or `.zip` file. For programmers experienced in web application design, the exercise should take approximately (2) hours to complete. For programmers with no recent experience with web application design, the exercise could take approximately (10) hours, if you account for time spent "getting up to speed".
+The simplified exercise below is representative of the kind applications we build within the OLCF Software Services Development Team. When you are finished with the coding exercise, please send your submission directly to us via email as a `.tar.gz` or `.zip` file. For programmers experienced in web application design, the exercise should take approximately (2) hours to complete. For programmers with no recent experience with web application design, the exercise could take approximately (10) hours, if you account for time spent "getting up to speed".
 
 ### Deliverable
 
@@ -19,7 +19,7 @@ Your deliverable, at minimum:
 - Your API endpoint should correctly filter the dataset based upon any combination of filter keywords (see "Filter Keywords" section below)
 - Should provide basic test(s) as you see fit
 
-Limited use of open-source third-party gems/packages beyond your chosen framework is fine, as long as your `README` describes the build/installation process thoroughly.
+Please avoid identifying yourslf by name within the source code itself (delete that `.git` directory!) Limited use of open-source third-party gems/packages beyond your chosen framework is fine, as long as your `README` describes the build/installation process thoroughly. We will build and run your source code exactly according to your instructions.
 
 ### Specifications
 
